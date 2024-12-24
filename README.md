@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 ## 🧠 Experience With
-* MVC and MVP interface architectural patterns
-* SwiftUI and UIKit
+* MVVM and MVP interface architectural patterns
+* UIKit and SwiftUI
 * Combine 
 * Test Driven Development
 
